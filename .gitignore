@@ -1,3 +1,29 @@
+# Visual Studio Code
+**/.vscode/
+**/.vs
+/.vs
+.vs
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
