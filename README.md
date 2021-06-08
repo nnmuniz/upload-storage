@@ -1,3 +1,3 @@
 # upload-storage
 
-Configurar storage de desenvolvimento para gravar PDF no Google Cloud Platform (GCP).
+Configurar aplicação para gravar arquivos no storage da Google Cloud Platform (GCP).
